@@ -45,6 +45,26 @@ Contract workforce absenteeism and vendor performance issues were causing operat
 - Business Intelligence
 - Workforce Analytics
 
+
+## Project Artifacts
+
+### Power BI Dashboard
+Dashboard screenshot uploaded in this repository.
+
+### Vendor Risk Analysis
+Vendor summary screenshots uploaded in this repository.
+
+### Risk Scoring Model
+Risk scoring framework screenshot uploaded in this repository.
+
+### SQL Analysis
+Sample SQL query screenshot uploaded in this repository.
+
+## Confidentiality Notice
+
+This repository contains only selected screenshots and project artifacts. Raw datasets and sensitive business information have been excluded to maintain organizational confidentiality.
+
+
 ## Author
 
 Abhishek Patnaik
